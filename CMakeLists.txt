@@ -3,3 +3,4 @@ project(MyArticles)
 
 add_subdirectory(some_cpp11_function_tricks)
 add_subdirectory(the_property_class)
+add_subdirectory(generate_getters_and_setters)
